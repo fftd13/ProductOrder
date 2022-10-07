@@ -1,0 +1,15 @@
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\bin\Debug\net6.0\labDeTestes.exe
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\bin\Debug\net6.0\labDeTestes.deps.json
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\bin\Debug\net6.0\labDeTestes.runtimeconfig.json
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\bin\Debug\net6.0\labDeTestes.dll
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\bin\Debug\net6.0\labDeTestes.pdb
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\labDeTestes.csproj.AssemblyReference.cache
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\labDeTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\labDeTestes.AssemblyInfoInputs.cache
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\labDeTestes.AssemblyInfo.cs
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\labDeTestes.csproj.CoreCompileInputs.cache
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\labDeTestes.dll
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\refint\labDeTestes.dll
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\labDeTestes.pdb
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\labDeTestes.genruntimeconfig.cache
+C:\Users\felli\Documents\minhasfita\projetos_vs\csharpPoo\LABORATORIUM\labDeTestes\labDeTestes\obj\Debug\net6.0\ref\labDeTestes.dll
