@@ -20,5 +20,19 @@ namespace labDeTestes.Entities
             return Item.Price * Quantity;
         }
 
+        public override string ToString()
+        {
+            return "Product: "
+                + Item.Name
+                + " Category: "
+                + Item.Category.ToString()
+                + "\nPrice: $ "
+                + Item.Price
+                + ", Quantity: "
+                + Quantity
+                + "\nSub-Total: $ "
+                + SubTotal().ToString("F2");
+        }
+
     }
 }

@@ -11,7 +11,7 @@ namespace labDeTestes.Entities.Enums
         Eletronics,
         Foods,
         Chemicals,
-        Craftsmanship,
-        Furniture
+        Craftsmanships,
+        Furnitures
     }
 }
